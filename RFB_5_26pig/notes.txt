@@ -1,0 +1,5 @@
+blood .3cm very long hairs
+thermoguide 2.2.2
+preneck_CS .4cm pre mrgfus   need to rename
+neck_N post? .4cm  need to finish 30pct
+abdomen_N post? .4cm
